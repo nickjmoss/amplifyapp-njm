@@ -1,0 +1,14 @@
+{
+  "resourceName": "imagestoragenjm",
+  "policyUUID": "9f0f2230",
+  "bucketName": "amplifyappnjmad3e052d8fde430ab308c7e1e13166e5",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
